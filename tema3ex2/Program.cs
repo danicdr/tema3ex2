@@ -1,6 +1,6 @@
 ﻿using System;
 //Scrieti o functie care va determina daca un numar este sau nu numar prim. Apelati-o si afisati-i rezultatul
-namespace MyFirstProgram2._1
+namespace tema3ex2
 {
     class Program
     {
